@@ -1,4 +1,4 @@
-### WhatsApp Bug Bot By `Tech God`
+### WhatsApp Bug Bot By `SHIGARAKI MD`
 Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
 ### Bot Features
 *⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
@@ -40,7 +40,7 @@ Very powerfull & dangerou WhatsApp Bug 🐛 bot.
    [`More hacks & tutorials`](youtube.com/@techgod143)
 
 # contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/917466008456?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/2250576012943?text=Hi!! `SHIGARAKI MD` Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)" target="_blank">
